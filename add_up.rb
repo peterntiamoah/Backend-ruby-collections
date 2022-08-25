@@ -18,6 +18,8 @@ def add_up(i)
     puts sum #print the final result to output
 end
 
+puts "Adding something to the file before we send it back up to git so the students can see the changes"
+
 add_up(0)
 add_up(2)
 add_up(7)
